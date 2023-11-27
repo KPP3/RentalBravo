@@ -91,6 +91,4 @@ async function search(req, res) {
 
 [Vivek Patel](https://github.com/vivek1999patel)
 
-[Vivek Rana](https://github.com/vivekrana0)
-
-[Wasim Okadia](https://github.com/Wasimoak)
+[Keyur Patel](https://github.com/kpp3)
