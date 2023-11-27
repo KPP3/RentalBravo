@@ -1,0 +1,24 @@
+.DetailCard{
+    height: 100%;
+    width: 80%;
+    /* padding-bottom: 3%; */
+    margin-left: 200px;
+    
+}
+.DetailImage {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.DetailInfo {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+ 

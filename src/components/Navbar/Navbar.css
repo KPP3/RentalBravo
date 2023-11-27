@@ -1,0 +1,10 @@
+#brand {
+    color: black;
+    font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+}
